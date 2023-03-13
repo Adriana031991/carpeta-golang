@@ -1,0 +1,1 @@
+2018/07/07 12:00:15 un error ocurrió open sin-archivo.txt: no such file or directory

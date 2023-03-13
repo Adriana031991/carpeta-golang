@@ -1,0 +1,8 @@
+el repo de seller
+-clientes, licencias, pagos, cancelaciones
+
+comando para ignorar archivos especificos
+git add --all -- ':!direccion de archivo' ejemplo git add --all -- ':!src/assets/env/env.json'
+
+
+"integrity": "sha512-QbJ0NTQ/I9DI3uSJA4cbexiwQeRAfjPScqIbSjUDd9TOrcg6pTkdgziesOqxBMBzit8vFCTwrP27t13vFOORRA==",

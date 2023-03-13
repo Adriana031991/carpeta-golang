@@ -1,0 +1,12 @@
+
+ubuntu->
+user: adriana
+pass: franklin
+
+windows terminal -> permite tener varias terminales abiertas
+
+buscar comandos de ubuntu
+
+ssh-keygen ->genera llave ssh
+
+sudo apt update -> actualizacion del ubuntu -- actualiza todos los archivos que esten desactualizados

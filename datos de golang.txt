@@ -1,0 +1,7 @@
+Golang
+
+go mod init --nombreproject--- > para crear el go.mod (Este comando crea un archivo llamado go.mod , que se usa para realizar un seguimiento de los paquetes de los que depende un proyecto y también se puede usar para publicar el proyecto, si es necesario.)
+
+go run archivo -> para correr el main de go (ejemplo: go run main.go )
+
+go mod tidy -> descaga dependencias

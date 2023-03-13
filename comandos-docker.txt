@@ -1,0 +1,15 @@
+
+https://runnable.com/docker/install-docker-on-linux
+
+
+empezar ->
+ sudo service docker start
+Verify Docker:
+ sudo docker run hello-world
+
+images -> docker images
+
+docker ps -a -> lista todas las imagenes
+
+docker start -id- -> para empezar una imagen
+https://geekflare.com/es/docker-commands/
